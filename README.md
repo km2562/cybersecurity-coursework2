@@ -23,10 +23,6 @@ km2562@bath.ac.uk
 
 * 0.1
 
-## License
+## Bibliography
 
-No license
-
-## Acknowledgments
-
-* https://www.geeksforgeeks.org/c-sharp/how-to-read-and-write-a-text-file-in-c-sharp/
+Geeks for Geeks, 2025. _How to Read and Write a Text File in C#? - GeeksforGeeks_ [Online]. Available from: https://www.geeksforgeeks.org/c-sharp/how-to-read-and-write-a-text-file-in-c-sharp/ [Accessed 29 January 2026]
